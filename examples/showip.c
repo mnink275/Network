@@ -6,7 +6,7 @@
 #include <string.h>
 #include <sys/types.h>
 #include <sys/socket.h>
-#include <netdb.h>
+#include <netdb.h> // definition for network database operations
 #include <arpa/inet.h>
 #include <netinet/in.h>
 
